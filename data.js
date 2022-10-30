@@ -56,4 +56,4 @@ const quotes = [
 module.exports = {
   quotes
 };
-
+console.log(quotes)

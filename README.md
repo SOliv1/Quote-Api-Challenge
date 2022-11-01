@@ -1,5 +1,9 @@
 [![pages-build-deployment](https://github.com/SOliv1/api-quote-challenge/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/SOliv1/api-quote-challenge/actions/workflows/pages/pages-build-deployment)
 
+View the deployed repo on [Render](https://quote-api.onrender.com/)
+
+command for render webservice on Node is *npm install*
+
 ## Features
 
 ### BUILD A BACK-END WITH NODE/EXPRESS.JS

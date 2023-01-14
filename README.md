@@ -1,4 +1,4 @@
-[![pages-build-deployment](https://github.com/SOliv1/api-quote-challenge/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/SOliv1/api-quote-challenge/actions/workflows/pages/pages-build-deployment)
+[![pages-build-deployment](https://github.com/SOliv1/api-quote-challenge/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/SOliv1/api-quote-challenge/actions/workflows/pages/pages-build-deployment)[![CodeQL](https://github.com/SOliv1/Quote-Api-Challenge/actions/workflows/codeql.yml/badge.svg)](https://github.com/SOliv1/Quote-Api-Challenge/actions/workflows/codeql.yml)
 
 View the deployed repo on [Render](https://quote-api.onrender.com/)
 

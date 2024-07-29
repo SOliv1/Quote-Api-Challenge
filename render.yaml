@@ -1,0 +1,14 @@
+# Exported from Render on 2024-07-29T20:19:20Z
+services:
+- type: web
+  name: Quote-Api
+  runtime: node
+  repo: https://github.com/SOliv1/Quote-Api-Challenge
+  plan: free
+  region: oregon
+  buildCommand: npm install
+  startCommand: node server.js
+version: "1"
+
+
+

@@ -1,6 +1,7 @@
 [![pages-build-deployment](https://github.com/SOliv1/api-quote-challenge/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/SOliv1/api-quote-challenge/actions/workflows/pages/pages-build-deployment)[![CodeQL](https://github.com/SOliv1/Quote-Api-Challenge/actions/workflows/codeql.yml/badge.svg)](https://github.com/SOliv1/Quote-Api-Challenge/actions/workflows/codeql.yml)
 
 View the deployed repo on [Render](https://quote-api.onrender.com/)
+View the deployed repo [here](https://quote-api.onrender.com/)
 
 command for render webservice on Node is *npm install*
 
